@@ -1,2 +1,2 @@
-# shopping-list-app-built-with-mern-stack
-It's a real simple shopping list app built with meran stack....in this app i implemented redux :blush: for the very first time....finally :unamused:
+# MERN-app-with-jwt
+This is a simple MERN shopping list app, user need to register to manage the items
